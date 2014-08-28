@@ -27,3 +27,4 @@ C:\PROJECTS\GoodByeHelloWorld\src\GoodByeHelloWorld\bin\System.Web.WebPages.Depl
 C:\PROJECTS\GoodByeHelloWorld\src\GoodByeHelloWorld\bin\System.Web.WebPages.Razor.xml
 C:\PROJECTS\GoodByeHelloWorld\src\GoodByeHelloWorld\obj\Debug\GoodByeHelloWorld.dll
 C:\PROJECTS\GoodByeHelloWorld\src\GoodByeHelloWorld\obj\Debug\GoodByeHelloWorld.pdb
+C:\PROJECTS\GoodByeHelloWorld\src\GoodByeHelloWorld\obj\Debug\GoodByeHelloWorld.csprojResolveAssemblyReference.cache

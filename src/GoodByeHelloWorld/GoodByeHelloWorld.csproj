@@ -123,6 +123,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\JasmineController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -135,6 +136,8 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Content\images\back.jpeg" />
+    <Content Include="Content\jasmine\jasmine.css" />
+    <Content Include="Content\jasmine\jasmine_favicon.png" />
     <Content Include="Content\main.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
@@ -191,6 +194,12 @@
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\Tests\Controllers\MainCtrl.ctrl.test.js" />
+    <Content Include="Scripts\Vendor\jasmine\boot.js" />
+    <Content Include="Scripts\Vendor\jasmine\console.js" />
+    <Content Include="Scripts\Vendor\jasmine\jasmine-html.js" />
+    <Content Include="Scripts\Vendor\jasmine\jasmine.js" />
+    <Content Include="Views\Jasmine\SpecRunner.cshtml" />
     <TypeScriptCompile Include="Scripts\App\Controllers\MainCtrl.ctrl.ts" />
     <TypeScriptCompile Include="Scripts\App\Services\MainService.svc.ts" />
     <TypeScriptCompile Include="Scripts\App\Services\MainService.ts" />
