@@ -2,6 +2,6 @@
 
 app.controller("MainCtrl", ['$scope', 'MainService', ($scope: IMainCtrlScope, MainService) => {
 
-    $scope.title = 'Hello World';
+        $scope.title = 'Hello World';
 
 }]);
