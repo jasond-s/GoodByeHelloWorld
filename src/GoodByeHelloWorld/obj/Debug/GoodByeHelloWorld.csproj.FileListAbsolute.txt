@@ -58,3 +58,4 @@ C:\PROJECTS\git.dev.ahc\GoodByeHelloWorld\src\GoodByeHelloWorld\bin\System.Web.W
 C:\PROJECTS\git.dev.ahc\GoodByeHelloWorld\src\GoodByeHelloWorld\bin\System.Web.WebPages.Razor.xml
 C:\PROJECTS\git.dev.ahc\GoodByeHelloWorld\src\GoodByeHelloWorld\obj\Debug\GoodByeHelloWorld.dll
 C:\PROJECTS\git.dev.ahc\GoodByeHelloWorld\src\GoodByeHelloWorld\obj\Debug\GoodByeHelloWorld.pdb
+C:\PROJECTS\git.dev.ahc\GoodByeHelloWorld\src\GoodByeHelloWorld\obj\Debug\GoodByeHelloWorld.csprojResolveAssemblyReference.cache
